@@ -3,6 +3,7 @@
   "msg": "sucess",
   "data": {
     "version": "1",
-    "gameUrl": "https://rk.zl.191game.com/3/H5login.php"
+    "//": "https://rk.zl.191game.com/3/H5login.php",
+    "gameUrl": "https://ios-gs.zlzz.app.9125flying.com/191_ios1.php"
   }
 }
